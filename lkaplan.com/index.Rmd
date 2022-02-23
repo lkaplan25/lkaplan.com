@@ -1,0 +1,32 @@
+---
+title: "Leah Kaplan"
+image: "images/kaplan.png"
+links:
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:leahkaplan@gwu.edu"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/lkaplan25"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/kap_leah"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/leah-kaplan"
+preview: images/kaplan.png
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+### Welcome to my personal website!
+
+I am a PhD student in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at the George Washington University. Through my research I aim to understand how we can leverage emerging transportation technologies for the benefit of, rather than detriment to, society. 

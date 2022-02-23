@@ -1,0 +1,59 @@
+---
+title: "About me"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am a PhD student and National Science Foundation Graduate Research Fellow in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at the George Washington University. I am also a fellow with GWU's [Designing Trustworthy AI Systems](https://blogs.gwu.edu/designingtrustworthyaisystems/) multi-disciplinary research program. My research interests center around understanding how to leverage emerging transportation technologies for the benefit of, rather than detriment to, society. In particular, my current research focuses on the potential equity impacts of automated vehicles.
+
+Prior to starting my PhD, I worked as a program specialist with the [ASU Consortium for Science, Policy & Outcomes (CSPO)](https://cspo.org/) in Washington, DC. My primary focus was supporting CSPO's work on Participatory Technology Assessment (pTA), aiming to incorporate public values and perspectives into critical science and technology decisions. In that role, I helped to coordinate the Consortium’s project “Our Driverless Futures”, involving large-scale public deliberations across the United States, Europe, and Asia on the future of driverless mobility.
+
+My interests in transportation extend beyond my work. I am an avid cyclist and public transit enthusiast. When not at my desk doing research, I'm typically found hiking, boxing, or dancing. 
+ <br><br>
+
+
+```{css, echo = FALSE}
+.columnname {
+  font-size: 1.4rem; 
+  font-weight: 600;
+}
+.grad-item {
+  list-style: none; 
+  background-image: url(graduation-cap-solid.png); 
+  background-repeat: no-repeat;  
+  background-size: 1.2rem; 
+  padding-left: 2rem;
+}
+.grad-location {
+  font-size: 0.8rem;
+  color: grey;
+}
+```
+
+:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
+
+::: {}
+<span class = "columnname"> Interests </span>
+
+* Automated vehicles
+
+* Transportation equity
+
+* Participatory technology assessment
+
+:::
+
+::: {}
+<span class = "columnname"> Education </span>
+
+<ul>
+ 
+*  PhD in Systems Engineering, 2020-current <br> <p class = "grad-location"> The George Washington University </p> </li>
+* Bachelor's degree in Chemical Engineering, 2014-2018 <br> <p class = "grad-location"> The University of Arizona </p> 
+</li>
+
+</ul>
+:::
+::::
