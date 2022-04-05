@@ -1,3 +1,10 @@
+.DS_Store
+.Rproj.user
+_site
+.Rhistory
+site_libs
+
+
 # History files
 .Rhistory
 .Rapp.history
