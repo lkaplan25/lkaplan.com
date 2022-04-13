@@ -1,2 +1,0 @@
-# lkaplan.com
-Personal website
