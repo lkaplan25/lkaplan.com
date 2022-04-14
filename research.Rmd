@@ -31,11 +31,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Working Papers & Papers Under Review
 
+
 1. **Kaplan, L.** & Helveston, J.P., “Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S.” *Working paper*.
 
 <br>
 
+
 ## Reports, Articles for Non-Academic Audiences, and Other Publications
+
 
 1.	Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. Issues in Science and Technology. https://issues.org/endless-frontier-act-and-public-values/
 
@@ -52,6 +55,7 @@ https://cspo.org/wp-content/uploads/2019/04/Background-Materials-for-Our-Driverl
 <br>
 
 ## Presentations
+
 2020 |	Brown, R., **Kaplan, L.**, Isaac, L., & Lanigan, T. (2021, February 8). Vermont AV-Xchange – Opportunities and Challenges for Testing Collaboration.
 
 2019	| **Kaplan, L.**, John Nelson, and David Tomblin, Informing the Governance of Geoengineering Research Through Public 
