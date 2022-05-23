@@ -29,4 +29,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Welcome to my personal website!
 
-I am a PhD student in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at the George Washington University. Through my research I aim to understand how we can leverage emerging transportation technologies for the benefit of, rather than detriment to, society. 
+I am a PhD candidate in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at the George Washington University. I am also a fellow with GWU's [Designing Trustworthy AI Systems NSF NRT Program](https://blogs.gwu.edu/designingtrustworthyaisystems/). Through my research I aim to understand how we can leverage emerging transportation technologies for the benefit of, rather than detriment to, society. 

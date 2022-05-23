@@ -20,8 +20,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </center>
 
-<br>
-
 ## Publications in Peer Reviewed Journals 
 1. **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2021). Designing Participatory Technology Assessments: A Reflexive Method for Advancing the Public Role in Science Policy Decision-making. Technological Forecasting and Social Change, 171, 120974. https://doi.org/10.1016/j.techfore.2021.120974
 2. Nelson, J. P., **Kaplan, L.**, & Tomblin, D. (2020). Assessing solar geoengineering research funders: Insights from two US public deliberations. The Anthropocene Review, 2053019620964845. https://doi.org/10.1177/2053019620964845
@@ -98,6 +96,8 @@ Interrogating Innovation, Nanyang Technological University, Singapore.
 ## Fellowships & Awards
 
 ### Fellowships & Scholarships
+* 2021 | Designing Trustworthy AI Systems NSF NRT Fellowship
+
 * 2020 | National Science Foundation Graduate Research Fellow
 
 * 2017 |	Chapman Scholar – awarded to 1 UA engineering student, department nominated and committee selected
