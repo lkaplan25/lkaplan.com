@@ -30,13 +30,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Working Papers & Papers Under Review
 
 
-1. **Kaplan, L.** & Helveston, J.P., “Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S.” *Working paper*.
+1. **Kaplan, L.** & Helveston, J.P., “Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S.” *Under review*.
 
 <br>
 
+## Book Chapters
+
+1. **Kaplan, L.**, Rupprecht, S., Grosso, M., Thomopoulos, N., Backhaus, W., Raposo, M. A., ... & Franco, D. (2023). Ensuring Strong Public Support for Automation in the Planning Process: From Engagement to Co-creation. *In Automated Road Transportation Symposium* (pp. 167-183). Springer, Cham. https://link.springer.com/book/10.1007/978-3-031-11112-9#page=169
+
+<br>
 
 ## Reports, Articles for Non-Academic Audiences, and Other Publications
-
 
 1.	Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. Issues in Science and Technology. https://issues.org/endless-frontier-act-and-public-values/
 
@@ -52,26 +56,18 @@ https://cspo.org/wp-content/uploads/2019/04/Background-Materials-for-Our-Driverl
 
 <br>
 
-## Presentations
+## Selected Presentations
+2022 | **Kaplan, L.** & Helveston, J.P., Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S. Industry Studies Association (Oral)
 
-2020 |	Brown, R., **Kaplan, L.**, Isaac, L., & Lanigan, T. (2021, February 8). Vermont AV-Xchange – Opportunities and Challenges for Testing Collaboration.
+2021 | **Kaplan, L.**, Benefits for Whom? Considering Equity as a Design Goal for Autonomous Vehicle Development, Society for Philosophy and Technology Conference (Oral, Virtual)
 
-2019	| **Kaplan, L.**, John Nelson, and David Tomblin, Informing the Governance of Geoengineering Research Through Public 
-Deliberations, Dec. 2019; American Geophysical Union Annual Conference (Oral)
+2021 |	Brown, R., **Kaplan, L.**, Isaac, L., & Lanigan, T., Opportunities and Challenges for Testing Collaboration. Vermont AV-Xchange. (Oral, Virtual)
 
 2019 |	**Kaplan, L.**, Mahmud Farooque, Kimberly Quach, and Jason Lloyd, Boundary Spanning at the Science Policy Interface: 
 Challenges and Opportunities, Dec. 2019; American Geophysical Union Annual Conference (eLightning)
 
-2019 |	**Kaplan, L.**, John Nelson, Our Driverless Futures – Informing Autonomous Vehicle Design and Deployment through Public
+2019 |	**Kaplan, L.**, John Nelson, Our Driverless Futures – Informing Autonomous Vehicle Design and Deployment through Public 
 Deliberation. Oct. 2019. Phoenix Mobile and Emerging Tech Festival
-
-2019 | **Kaplan, L.**, John Nelson, US Public Preferences in Geoengineering Funding and Governance, Oct. 2019. The Science, 
-Health and Engineering Policy and Diplomacy; Sustainable Development for the Americas Conference
-
-2019 | Tomblin, D., **Leah Kaplan,** JP Nelson, and Mahmud Farooque, “Our Driverless Futures:” Informing Autonomous Vehicle Systems Design through Participatory Technology Assessment. Oct. 2019. University of Maryland Do Good Robots Symposium
-
-2019 |	Farooque, M. and **Leah Kaplan**, Innovating with the Public – One Deliberation at a Time, Aug. 2019. Symposium: 
-Interrogating Innovation, Nanyang Technological University, Singapore. 
 
 2019 |	Sarewitz, D., **Leah Kaplan** and Mahmud Farooque, How can engaging public deliberations build bridges across the S&T enterprise?, June. 2019. National Science and Technology Council “Building Bridges Across the S&T Enterprise” Conference
 
@@ -79,18 +75,7 @@ Interrogating Innovation, Nanyang Technological University, Singapore.
 
 2019 |	**Kaplan, L.**, and David Tomblin, Why Public Engagement with Science and Technology. Mar. 2019. Workshop with American Association for the Advancement of Science (AAAS) Fellows
 
-2019 |	Tomblin, D., John Nelson, and **Leah R. Kaplan**, Solar Radiation Management Forum Results Workshop. Dec. 2019. Workshop hosted by Arizona State University
-
 2018 |	**Kaplan, L.**, Hassan A. Vafai, and Kevin E. Lansey. Sowing the seeds of understanding and interest: An example of university-sponsored incubation and collaboration for science diplomacy. Nov. 2018. Science Policy Symposium, Science and Education Policy Association
-
-2017 |	**Kaplan, L.**, Drosophila astrocytes span functional neural domains with variable overlap. Oct. 2017. Undergraduate Rapid-Fire Research Presentation Competition, Society of Women Engineers National Conference
- 
-2017   |  **Kaplan, L.**, Hector D. Garcia, Ernesto Hernandez, Leslie P. Tolbert, and Lynne A. Oland. Drosophila astrocytes span functional neural domains with variable overlap. Jan. 2017. Research poster presented at the Undergraduate Biology Research Conference
-
-2016	Hernandez, E., Sarah E. MacNamee, **Leah R. Kaplan**, Julie A. Charlton, Dara S. Farhadi, Kimberly N. Lance, Leslie P. Tolbert, and Lynne A. Oland. Drosophila astrocytes span functional neural domains. Nov. 2016. Research poster presented at the Society for Neuroscience Conference.
-
-2016     **Kaplan, L.**, Sarah E. MacNamee, Kimberly N. Lance, Leslie P. Tolbert, and Lynne A. Oland. Presence of markers for Glutamate, GABA, and Acetylcholine in particular neurons provides evidence for neuron-glia interactions. Jan. 2016. Research poster presented at the Undergraduate Biology Research Conference.
-
 
 
 ## Fellowships & Awards
