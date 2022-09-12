@@ -785,6 +785,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
   
   .html-widget {
@@ -1857,15 +1858,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+  
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2116,7 +2123,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="d-article">
 <p>I am a PhD candidate and National Science Foundation Graduate Research Fellow in the <a href="http://emse.seas.gwu.edu/">Department of Engineering Management and Systems Engineering</a> at the George Washington University. I am also a fellow with GWU’s <a href="https://blogs.gwu.edu/designingtrustworthyaisystems/">Designing Trustworthy AI Systems</a> multi-disciplinary research program. My research interests center around understanding how to leverage emerging transportation technologies for the benefit of, rather than detriment to, society. In particular, my current research focuses on the potential equity impacts of automated vehicles.</p>
 <p>Prior to starting my PhD, I worked as a program specialist with the <a href="https://cspo.org/">ASU Consortium for Science, Policy &amp; Outcomes (CSPO)</a> in Washington, DC. My primary focus was supporting CSPO’s work on Participatory Technology Assessment (pTA), aiming to incorporate public values and perspectives into critical science and technology decisions. In that role, I helped to coordinate the Consortium’s project “Our Driverless Futures”, involving large-scale public deliberations across the United States, Europe, and Asia on the future of driverless mobility.</p>
-<p>My interests in transportation extend beyond my work. I am an avid cyclist and public transit enthusiast. When not at my desk doing research, I’m typically found hiking, boxing, or dancing (my favorite is country swing). <br><br></p>
+<p>My interests in transportation extend beyond my work. I am an avid cyclist and public transit enthusiast. When not at my desk doing research, I’m typically found hiking, boxing, or dancing (my favorite is country swing).
+<br><br></p>
 <div class="layout-chunk" data-layout="l-body">
 <style type="text/css">
 .columnname {
