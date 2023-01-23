@@ -36,7 +36,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Book Chapters
 
-1. **Kaplan, L.**, Rupprecht, S., Grosso, M., Thomopoulos, N., Backhaus, W., Raposo, M. A., ... & Franco, D. (2023). Ensuring Strong Public Support for Automation in the Planning Process: From Engagement to Co-creation. *In Automated Road Transportation Symposium* (pp. 167-183). Springer, Cham. https://link.springer.com/book/10.1007/978-3-031-11112-9#page=169
+1. **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2023). Designing Participatory Technology Assessments. *In The Rightful Place of Science: New Tools for Science Policy* (Vol II) (pp. 107-154). Consortium for Science, Policy & Outcomes.
+2. **Kaplan, L.**, Rupprecht, S., Grosso, M., Thomopoulos, N., Backhaus, W., Raposo, M. A., ... & Franco, D. (2023). Ensuring Strong Public Support for Automation in the Planning Process: From Engagement to Co-creation. *In Automated Road Transportation Symposium* (pp. 167-183). Springer, Cham. https://link.springer.com/book/10.1007/978-3-031-11112-9#page=169
 
 <br>
 
