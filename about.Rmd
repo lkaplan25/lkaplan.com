@@ -11,7 +11,12 @@ I am a PhD candidate and National Science Foundation Graduate Research Fellow in
 Prior to starting my PhD, I worked as a program specialist with the [ASU Consortium for Science, Policy & Outcomes (CSPO)](https://cspo.org/) in Washington, DC. My primary focus was supporting CSPO's work on Participatory Technology Assessment (pTA), aiming to incorporate public values and perspectives into critical science and technology decisions. In that role, I helped to coordinate the Consortium’s project “Our Driverless Futures”, involving large-scale public deliberations across the United States, Europe, and Asia on the future of driverless mobility.
 
 My interests in transportation extend beyond my work. I am an avid cyclist and public transit enthusiast. When not at my desk doing research, I'm typically found hiking, boxing, or dancing (my favorite is country swing). 
- <br><br>
+
+Learn more about how I think about AVs and the future of transportation in the video below:
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/727232863?h=ca6c6e8403&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PIT in Action.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+ 
+<br><br>
 
 
 ```{css, echo = FALSE}
