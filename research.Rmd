@@ -21,16 +21,17 @@ knitr::opts_chunk$set(echo = TRUE)
 </center>
 
 ## Publications in Peer Reviewed Journals 
-1. **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2021). Designing Participatory Technology Assessments: A Reflexive Method for Advancing the Public Role in Science Policy Decision-making. Technological Forecasting and Social Change, 171, 120974. https://doi.org/10.1016/j.techfore.2021.120974
-2. Nelson, J. P., **Kaplan, L.**, & Tomblin, D. (2020). Assessing solar geoengineering research funders: Insights from two US public deliberations. The Anthropocene Review, 2053019620964845. https://doi.org/10.1177/2053019620964845
-3. Hernandez, E., MacNamee, S. E., **Kaplan, L. R.**, Lance, K., Garcia-Verdugo, H. D., Farhadi, D. S., Deer, C., Lee, S. W., & Oland, L. A. (2020). The astrocyte network in the ventral nerve cord neuropil of the Drosophila third-instar larva. Journal of Comparative Neurology, 528(10), 1683–1703. https://doi.org/10.1002/cne.24852
+1. **Kaplan, L.** & Helveston, J.P., (2024)"Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S." Transportation Research Record. https://doi.org/10.1177/03611981231208976
+2. **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2021). Designing Participatory Technology Assessments: A Reflexive Method for Advancing the Public Role in Science Policy Decision-making. Technological Forecasting and Social Change, 171, 120974. https://doi.org/10.1016/j.techfore.2021.120974
+3. Nelson, J. P., **Kaplan, L.**, & Tomblin, D. (2020). Assessing solar geoengineering research funders: Insights from two US public deliberations. The Anthropocene Review, 2053019620964845. https://doi.org/10.1177/2053019620964845
+4. Hernandez, E., MacNamee, S. E., **Kaplan, L. R.**, Lance, K., Garcia-Verdugo, H. D., Farhadi, D. S., Deer, C., Lee, S. W., & Oland, L. A. (2020). The astrocyte network in the ventral nerve cord neuropil of the Drosophila third-instar larva. Journal of Comparative Neurology, 528(10), 1683–1703. https://doi.org/10.1002/cne.24852
 
 <br>
 
 ## Working Papers & Papers Under Review
 
 
-1. **Kaplan, L.** & Helveston, J.P., “Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S.” *Under review*.
+1. Kaplan, L., Nurullaeva, L. & Helveston, J.P., "Modeling the Hidden Labor Costs of Autonomous Vehicle Taxi Services." *Working paper*.
 
 <br>
 
@@ -41,19 +42,27 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-## Reports, Articles for Non-Academic Audiences, and Other Publications
+## Policy Memos, Reports, Articles for Non-Academic Audiences, and Other Publications
 
-1.	Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. Issues in Science and Technology. https://issues.org/endless-frontier-act-and-public-values/
+1.	**Kaplan, L.**, Szajnfarber, Z., & Helveston, J. P. (2023, November). Driverless but not humanless– vehicle systems. *IISE Magazine*, 55(11). https://www.iise.org/isemagazine/details.aspx?id=54506
 
-2.	**Kaplan, L.**, Nelson, J., Tomblin, D., Farooque, M., Lloyd, J., Neff, M., Bedsted, B., and Sarewitz, D., (2019). Exploring Democratic Governance of Geoengineering Research Through Public and Stakeholder Engagement. Consortium for Science, Policy & Outcomes.
+2.	**Kaplan, L.**, Currier, E. O., Omar, M., & Tchoumie, O. (2023). Food for Thought: An Interactive Exercise in Ethical Decision-Making. *FASPE 2023 Journal*. https://www.faspe-ethics.org/2023-journal-food-for-thought/
+
+3.	Doyle, S., **Kaplan, L.**, & Pan, E. (2023). Three Lessons from the Holocaust for Young Technologists. *FASPE 2023 Journal*. https://www.faspe-ethics.org/2023-journal-doyle-kaplan-pan/
+
+4.	**Kaplan, L.**, Mulcare, S., and Pantha, S. (2021). Cool Roofs to Reduce Urban Heat in New Orleans. European Horizons Policy Competition. 
+
+5.	Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. *Issues in Science and Technology*. https://issues.org/endless-frontier-act-and-public-values/
+
+6.	**Kaplan, L.**, Nelson, J., Tomblin, D., Farooque, M., Lloyd, J., Neff, M., Bedsted, B., and Sarewitz, D., (2019). Exploring Democratic Governance of Geoengineering Research Through Public and Stakeholder Engagement. Consortium for Science, Policy & Outcomes.
 https://cspo.org/wp-content/uploads/2019/10/SRM_book_EPUB.pdf
 
-3.	**Kaplan, L.** (2019). Background materials for “Our Driverless Futures: Community Forums on Automated Mobility.” Consortium for Science, Policy & Outcomes.
+7.	**Kaplan, L.** (2019). Background materials for “Our Driverless Futures: Community Forums on Automated Mobility.” Consortium for Science, Policy & Outcomes.
 https://cspo.org/wp-content/uploads/2019/04/Background-Materials-for-Our-Driverless-Futures.pdf
 
-4.	**Kaplan, L.** (2019). Give STAA a Chance. As We Now Think. Consortium for Science, Policy & Outcomes. https://cspo.org/give-staa-a-chance/
+5.	**Kaplan, L.** (2019). Give STAA a Chance. As We Now Think. Consortium for Science, Policy & Outcomes. https://cspo.org/give-staa-a-chance/
 
-5.	Farooque, M., **Kaplan, L.**, Lloyd, J., and Quach, K. (2019). Boundary Practitioners Workshop Report for the Earthrise Alliance. Consortium for Science, Policy & Outcomes. https://earthrisealliance.org/s/FinalBoundarySpanningWorkshopReport021519.pdf
+6.	Farooque, M., **Kaplan, L.**, Lloyd, J., and Quach, K. (2019). Boundary Practitioners Workshop Report for the Earthrise Alliance. Consortium for Science, Policy & Outcomes. https://earthrisealliance.org/s/FinalBoundarySpanningWorkshopReport021519.pdf
 
 <br>
 
