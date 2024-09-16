@@ -40,11 +40,11 @@ Learn more about how I think about AVs and the future of transportation in the v
 :::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
 
 ::: {}
-<span class = "columnname"> Interests </span>
+<span class = "columnname"> Research Interests </span>
 
 * Autonomous vehicles
 
-* Transportation equity
+* Transportation planning
 
 * Participatory technology assessment
 
@@ -55,8 +55,8 @@ Learn more about how I think about AVs and the future of transportation in the v
 
 <ul>
  
-*  PhD in Systems Engineering, 2024 (exp) <br> <p class = "grad-location"> The George Washington University </p> </li>
-* B.S. in Chemical Engineering, 2018 <br> <p class = "grad-location"> The University of Arizona </p> 
+*  PhD in Systems Engineering  <br> <p class = "grad-location"> The George Washington University </p> </li>
+* B.S. in Chemical Engineering <br> <p class = "grad-location"> The University of Arizona </p> 
 </li>
 
 </ul>
